@@ -31,3 +31,12 @@
 
 
 ```
+
+## Installation
+
+```
+git clone https://github.com/mrsonmez/graphql-simple-queries
+cd graphql-simple-queries
+npm install / yarn
+npm dev/start / yarn dev/start
+```
